@@ -562,6 +562,50 @@ git push -u origin main
 git init: It is used to intialize as a git working tree.
 		  It will generate .git
 
+
+
+
+Java software installation Process:
+-----------------------------------
+Step:1 search in the browser -> java 8 software download
+
+step:2 Click on : Java SE 8 Archive Downloads (JDK 8u202 and earlier)
+				  (https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html)
+
+step:3: From the first list: Java SE Development Kit 8u202
+		click on:	Windows x64		211.58 MB	jdk-8u202-windows-x64.exe <-
+		
+step:4: create the account + verify the account(in the mail)
+
+step:5: Once verifacation completed we can login directly. It will download the software.
+
+path: C:\Program Files\Java\jdk1.8.0_202\bin
+
+
+
+1)JDK 
+2)JRE
+3)JVM
+
+1)JDK : 
+		-> Java Development kit
+		-> It is providing the tools for execution,Compilation... of java program.
+		-> We can see the JDK
+		->Ex: javac,java,jdb,jconsol.
+2)JRE :
+		-> Java runtime Environment.
+		-> Jre Providing the platform/place for the exection of java programs.
+		-> It is present inside the jdk.
+		-> We are able to jre.
+3)JVM : 
+		-> Java Vertual Machine
+		-> Jvm will execute java program.
+		-> When ever executing java program, It will allocate the memory.
+		-> When ever execution completed, It will de-allocate the memory.
+		-> It will take the byte code and it will transalte the machine understandble format.
+		-> JVM is making java as platform independent.
+		-> We are not able to JVM.
+
 				
 			
 
